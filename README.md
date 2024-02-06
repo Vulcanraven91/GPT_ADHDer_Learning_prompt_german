@@ -2,7 +2,7 @@
 
 ![ADHD Learning](https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png) <!-- Replace this URL with the actual image URL -->
 
-<details> <summary>Deutsch</summary> 
+<details> <summary>Deutsch</summary> </details>
 
 Willkommen beim Projekt GPT_ADHDer Learning Prompt! Dieses Projekt hat das Ziel, Lernaufgaben bereitzustellen, die speziell für Menschen mit Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) konzipiert sind. Unser Anliegen ist es, die Lernerfahrung zu optimieren und die Fähigkeiten von Personen mit ADHS zu fördern.
 
@@ -38,12 +38,10 @@ Um mit dem Projekt GPT_ADHDer Learning Prompt zu beginnen, führen Sie folgende 
 4. Beginnen Sie mit dem GPT_ADHDer Learning Prompt, um die Lernerfahrung von Personen mit ADHS zu verbessern!
 
 ## Mitwirken
-Wir freuen uns über Mitwirkung aus der Community! Wenn Sie Interesse haben, zum GPT_ADHDer Learning Prompt Projekt beizutragen, lesen Sie bitte unsere [Richtlinien für Beiträge] (CONTRIBUTING.md) für weitere Informationen.
+Wir freuen uns über Mitwirkung aus der Community! Wenn Sie Interesse haben, zum GPT_ADHDer Learning Prompt Projekt beizutragen, lesen Sie bitte unsere [Richtlinien für Beiträge](CONTRIBUTING.md) für weitere Informationen.
 
 ## Lizenz
 Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Weitere Details finden Sie in der LICENSE-Datei.
-
-</details>
 
 <details>
 
