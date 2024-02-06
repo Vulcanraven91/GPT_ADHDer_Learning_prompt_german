@@ -2,6 +2,49 @@
 
 ![ADHD Learning](https://1000logos.net/wp-content/uploads/2023/02/ChatGPT-Logo.png) <!-- Replace this URL with the actual image URL -->
 
+<details> <summary>Deutsch</summary> 
+
+Willkommen beim Projekt GPT_ADHDer Learning Prompt! Dieses Projekt hat das Ziel, Lernaufgaben bereitzustellen, die speziell für Menschen mit Aufmerksamkeitsdefizit-Hyperaktivitätsstörung (ADHS) konzipiert sind. Unser Anliegen ist es, die Lernerfahrung zu optimieren und die Fähigkeiten von Personen mit ADHS zu fördern.
+
+## Inhaltsverzeichnis
+- Einführung
+- Merkmale
+- Funktionsweise
+- Erste Schritte
+- Mitwirken
+- Lizenz
+
+## Einführung
+ADHS ist eine neurologische Entwicklungsstörung, die sowohl Kinder als auch Erwachsene betrifft. Sie äußert sich durch Symptome wie Unaufmerksamkeit, Hyperaktivität und Impulsivität, die in der Lernumgebung Herausforderungen darstellen können. Das Projekt GPT_ADHDer Learning Prompt hat das Ziel, diesen Herausforderungen zu begegnen, indem es maßgeschneiderte Lernaufgaben bereitstellt, die auf die spezifischen Bedürfnisse von Personen mit ADHS abgestimmt sind.
+
+## Merkmale
+- Personalisierte Aufgaben: Erstellen Sie Lernaufgaben, die auf die individuellen Bedürfnisse und Vorlieben von Personen mit ADHS abgestimmt sind.
+- Interaktives Lernen: Binden Sie die Lernenden in interaktive Lernaktivitäten ein, die die Konzentration und Aufmerksamkeit verbessern.
+- Fortschrittsverfolgung: Überwachen Sie die Fortschritte der Lernenden im Laufe der Zeit und geben Sie ihnen Feedback, um ihre Lernerfahrung zu optimieren.
+
+## Funktionsweise
+1. Eingabe: Lernende oder Ausbilder geben Informationen zu den Lernpräferenzen und Interessengebieten des Lernenden ein.
+2. Generierung von Aufgaben: Das System generiert Lernaufgaben basierend auf den eingegebenen Daten.
+3. Interaktives Lernen: Die Lernenden beschäftigen sich mit den Aufgaben durch interaktive Lernaktivitäten.
+4. Feedback und Fortschrittsverfolgung: Das System verfolgt den Fortschritt des Lernenden und gibt Feedback zur Verbesserung.
+
+HINWEIS: DIE PLUGINS SIND ERFORDERLICH (aber nicht zwingend)
+
+## Erste Schritte
+Um mit dem Projekt GPT_ADHDer Learning Prompt zu beginnen, führen Sie folgende Schritte aus:
+1. Klonen Sie das Repository: `git clone https://github.com/username/GPT_ADHDer_Learning_prompt.git` <!-- Ersetzen Sie 'username' mit dem aktuellen GitHub-Benutzernamen -->
+2. Navigieren Sie in das Projektverzeichnis: `cd GPT_ADHDer_Learning_prompt`
+3. Wählen Sie Ihre bevorzugten Aufgaben aus, kopieren Sie die Aufgabe aus xxx.md an den Anfang jeder Konversation
+4. Beginnen Sie mit dem GPT_ADHDer Learning Prompt, um die Lernerfahrung von Personen mit ADHS zu verbessern!
+
+## Mitwirken
+Wir freuen uns über Mitwirkung aus der Community! Wenn Sie Interesse haben, zum GPT_ADHDer Learning Prompt Projekt beizutragen, lesen Sie bitte unsere [Richtlinien für Beiträge] (CONTRIBUTING.md) für weitere Informationen.
+
+## Lizenz
+Dieses Projekt steht unter der [MIT-Lizenz](LICENSE). Weitere Details finden Sie in der LICENSE-Datei.
+
+</details>
+
 <details>
 
 <summary>English</summary>
